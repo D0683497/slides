@@ -1235,6 +1235,7 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 
 + [reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) ([Demo](https://denehyg.github.io/reveal.js-toolbar/#/home))
 + [reveal.js-menu](https://github.com/denehyg/reveal.js-menu) ([Demo](https://denehyg.github.io/reveal.js-menu/#/home))
++ [reveal.js-chart](https://github.com/rajgoel/reveal.js-plugins/tree/master/chart) ([Demo](https://rajgoel.github.io/reveal.js-demos/chart-demo.html#/))
 
 ## License
 
