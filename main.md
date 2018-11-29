@@ -25,7 +25,7 @@
 + [社課簡介](slide/2018/python社課/社課簡介)
 + python 環境
     + <a href="slide/2018/python社課/python環境/python環境建置(舊)">Python 環境建置(舊)</a>
-    + [Python 環境建置 - Windows版]
+    + [Python 環境建置 - Windows版](slide/2018/python社課/python環境/python%20環境建置%20-%20Windows版)
     + [Pyhton 環境建置 - Mac版]
 + python 教學
     + [Python 基礎]
