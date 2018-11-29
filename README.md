@@ -50,6 +50,7 @@ reveal.js comes with a broad range of features including [nested slides](https:/
   - [Basic setup](#basic-setup)
   - [Full setup](#full-setup)
   - [Folder Structure](#folder-structure)
+- [引用的插件](#引用的插件)  
 - [License](#license)
 
 #### More reading
@@ -1230,6 +1231,9 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 - **plugin/** Components that have been developed as extensions to reveal.js
 - **lib/** All other third party assets (JavaScript, CSS, fonts)
 
+## 引用的插件
+
++ [reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) ([Demo](https://denehyg.github.io/reveal.js-toolbar/#/home))
 
 ## License
 
