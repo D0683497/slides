@@ -59,4 +59,4 @@
 
 ----
 
-+ [python社課報告](slide/2018/社員大會/python社課報告/社員大會%20-%20Python社課報告)
++ [python社課報告](slide/2018/社員大會/python社課報告)
