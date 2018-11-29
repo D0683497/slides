@@ -10,35 +10,83 @@
 
 ----
 
-<!-- .slide: data-background="https://i.imgur.com/d4Tdpx9.png" data-background-size="1200px" -->
+### 09/25 Pyhton社課人數統計
+
+<canvas class="stretch" data-chart="bar">
+,資訊電機學院, 工學院, 理學院, 金融學院, 商學院, 建設學院, 人文社會學院, 經營管理學院, 教職員
+People, 81, 1, 8, 5, 1, 1, 1, 1, 4
+</canvas>
 
 ----
 
-<!-- .slide: data-background="https://i.imgur.com/0nElLCH.png" data-background-size="1200px" -->
+### 10/02 Pyhton社課人數統計
+
+<canvas class="stretch" data-chart="bar">
+,資訊電機學院, 工學院, 理學院, 金融學院, 商學院, 建設學院, 人文社會學院, 國際科技與管理學院, 教職員
+People, 68, 9, 10, 5, 2, 2, 1, 1, 3
+</canvas>
 
 ----
 
-<!-- .slide: data-background="https://i.imgur.com/R8PKO42.png" data-background-size="1200px" -->
+### 10/09 Pyhton社課人數統計
+
+<canvas class="stretch" data-chart="bar">
+,資訊電機學院, 工學院, 理學院, 金融學院, 商學院, 建設學院, 人文社會學院, 國際科技與管理學院, 教職員 
+People, 49, 8, 4, 4, 0, 1, 1, 1, 1 
+</canvas>
 
 ----
 
-<!-- .slide: data-background="https://i.imgur.com/1WKMM0S.png" data-background-size="1200px" -->
+### 10/16 Pyhton社課人數統計
+
+<canvas class="stretch" data-chart="bar">
+,資訊電機學院, 工學院, 理學院, 金融學院, 商學院, 建設學院, 人文社會學院, 國際科技與管理學院, 教職員 
+People, 51, 5, 6, 4, 0, 1, 0, 0, 0
+</canvas>
 
 ----
 
-<!-- .slide: data-background="https://i.imgur.com/0IJQtMN.png" data-background-size="1200px" -->
+### 10/23 Pyhton社課人數統計
+
+<canvas class="stretch" data-chart="bar">
+,資訊電機學院, 工學院, 理學院, 金融學院, 商學院, 建設學院, 人文社會學院, 國際科技與管理學院, 教職員 
+People, 39, 4, 3, 4, 0, 1, 0, 0, 0
+</canvas>
 
 ----
 
-<!-- .slide: data-background="https://i.imgur.com/UXTC5WG.png" data-background-size="1200px" -->
+### 11/13 Pyhton社課人數統計
+
+<canvas class="stretch" data-chart="bar">
+,資訊電機學院, 工學院, 理學院, 金融學院, 商學院, 建設學院, 人文社會學院, 國際科技與管理學院, 教職員
+People, 18, 2, 2, 4, 0, 1, 0, 0, 1
+</canvas>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/ZXIPpsT.png" data-background-size="1100px" -->
+## Pyhton社課 年級統計
+
+<canvas data-chart="bar">
+09/25, 10/02, 10/09, 10/16, 10/23, 11/13
+一年級, 89, 78, 49, 46, 41, 21
+二年級, 5, 8, 7, 11, 4, 2
+三年級, 0, 2, 1, 1, 0, 0
+四年級, 4, 8, 5, 7, 6, 4
+碩一, 0, 1, 3, 2, 0, 0
+碩二, 0, 0, 1, 0, 0, 0
+教職員, 4, 3, 1, 0, 0, 1    
+無法辨識, 10, 1, 2, 0, 0, 0  
+</canvas>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/weVnaCH.png" data-background-size="800px" -->
+## Python 社課總人數
+
+<canvas data-chart="line">
+09/25, 10/02, 10/09, 10/16, 10/23, 11/13
+社課人數, 112, 101, 69, 67, 51, 28
+回饋表單數量, 17, 10, 1, 9, 21, 0
+</canvas>
 
 ---
 
