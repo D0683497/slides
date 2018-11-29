@@ -354,16 +354,9 @@ jupyter notebook
 
 同時你的預設瀏覽器會打開到這個畫面
 
-<table>
-    <tr>
-        <th align="center">chrome 版本</th>
-        <th align="center">ie 版本</th>
-    </tr>
-    <tr>
-        <td align="center"><img src="https://i.imgur.com/5tyZ9Kz.png" width="80%" height=""></td>
-        <td align="center"><img src="https://i.imgur.com/BgC2E6m.png" width="" height=""></td>
-    </tr>
-</table>
+| chrome 版本 | ie 版本 |
+| ------ | ------- |
+| <img src="https://i.imgur.com/5tyZ9Kz.png" width="83%" height=""> | ![](https://i.imgur.com/BgC2E6m.png) |
 
 ----
 
