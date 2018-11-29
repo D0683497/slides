@@ -1234,6 +1234,7 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 ## 引用的插件
 
 + [reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) ([Demo](https://denehyg.github.io/reveal.js-toolbar/#/home))
++ [reveal.js-menu](https://github.com/denehyg/reveal.js-menu) ([Demo](https://denehyg.github.io/reveal.js-menu/#/home))
 
 ## License
 
