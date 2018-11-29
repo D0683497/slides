@@ -333,7 +333,7 @@ jupyter notebook
 
 | chrome 版本 | ie 版本 |
 | ------ | ------- |
-| <img src="https://i.imgur.com/5tyZ9Kz.png" width="78%" height="78%"> | ![](https://i.imgur.com/BgC2E6m.png) |
+| <img src="https://i.imgur.com/5tyZ9Kz.png" width="83%" height=""> | ![](https://i.imgur.com/BgC2E6m.png) |
 
 ----
 
