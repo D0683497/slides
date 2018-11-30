@@ -39,7 +39,7 @@
     + [Visual Studio Code 安裝 - Mac版](slide/2018/python社課/VS%20code安裝/Visual%20Studio%20Code%20安裝%20-%20Mac版)
 + 網頁簡介
     + [HTML 簡介](slide/2018/python社課/網頁簡介/HTML%20簡介)
-    + [CSS 簡介]
+    + [CSS 簡介](slide/2018/python社課/網頁簡介/CSS%20簡介)
 
 ----
 
