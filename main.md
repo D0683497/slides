@@ -29,7 +29,7 @@
     + [Pyhton 環境建置 - Mac版](slide/2018/python社課/python環境/Python%20環境建置%20-%20Mac版)
 + python 教學
     + [Python 基礎](slide/2018/python社課/python教學/Python%20基礎)
-    + [Python基礎 - 範例]
+    + [Python基礎 - 範例](slide/2018/python社課/python教學/Python%20基礎%20-%20範例)
     + [Python基礎 - 複習](slide/2018/python社課/python教學/Python%20基礎%20-%20複習)
 
 ----
