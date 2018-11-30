@@ -35,7 +35,7 @@
 ----
 
 + VS code安裝
-    + [Visual Studio Code 安裝 - Windows版]
+    + [Visual Studio Code 安裝 - Windows版](slide/2018/python社課/VS%20code安裝/Visual%20Studio%20安裝%20-%20Windows版)
     + [Visual Studio Code 安裝 - Mac版]
 + 網頁簡介
     + [HTML 簡介]
