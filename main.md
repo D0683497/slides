@@ -30,7 +30,7 @@
 + python 教學
     + [Python 基礎](slide/2018/python社課/python教學/Python%20基礎)
     + [Python基礎 - 範例]
-    + [Python基礎 - 複習]
+    + [Python基礎 - 複習](slide/2018/python社課/python教學/Python%20基礎%20-%20複習)
 
 ----
 
