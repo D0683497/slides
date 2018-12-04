@@ -243,7 +243,7 @@ re.search(正則表達式, 字, (flags))
 
 ----
 
-```python=
+```python
 import re
 
 s = '123asd789'
@@ -294,7 +294,7 @@ re.findall(正則表達式, 字, (flags))
 
 ----
 
-```python=
+```python
 import re
 
 s = "hello hello"
@@ -314,7 +314,7 @@ re.sub(正則表達式, 要換的字, 原本的字, (更換次數), (flags))
 
 ----
 
-```python=
+```python
 import re
 
 s = "hello hello"
@@ -339,7 +339,7 @@ print(m)
 ----
 
 解答：
-```python=
+```python
 import re
 
 s = 'Minions love banana.'
@@ -370,14 +370,14 @@ print (m)
 
 解答：
 
-```python=
+```python
 import re
 while (1):
     s = input('請輸入身份證字號:')
     o = re.fullmatch("^[A-Z][12][0-9]{8}$", s)
     if s == 'end':
         break
-    elif s != None:
+    elif o != None:
         print('Ture')
     else:
         print('False')
@@ -402,7 +402,7 @@ email格式:
 
 解答：
 
-```python=
+```python
 import re
 
 while (1):
@@ -428,7 +428,7 @@ while (1):
 
 解答：
 
-```python=
+```python
 import re
 
 a = input('輸入:')
@@ -451,7 +451,7 @@ else:
 
 解答：
 
-```python=
+```python
 import re
 
 a = input('輸入:')
@@ -474,7 +474,7 @@ else:
 
 解答：
 
-```python=
+```python
 import re
 
 text = input("請輸入二進制數，並判別是否為4的倍數：\n")
@@ -556,7 +556,7 @@ https://ctf.hackersir.org
 
 ---
 
-```c=
+```c
 #include<stdio.h>
 
 int main(){

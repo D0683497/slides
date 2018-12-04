@@ -43,7 +43,7 @@ del b, c
 
 ## 多條語句
 
-```python=
+```python
 a = 1; b = 2; c = 3
 ```
 
@@ -51,7 +51,7 @@ a = 1; b = 2; c = 3
 
 ## 多行語句
 
-```python=
+```python
 a = '1' +\
     '2' +\
     '3'
@@ -64,7 +64,7 @@ b = [1, 2, 3,
 
 ## 註解
 
-```python=
+```python
 a = 1
 
 #我的第一個Python程式
@@ -86,7 +86,7 @@ a = 1
 
 ### 數字
 
-```python=
+```python
 #int
 a = 100
 print(a)
@@ -110,7 +110,7 @@ print('型態:', type(d))
 
 ### 字串
 
-```python=
+```python
 s = 'asdfghjkl'
 a = "qwe"
 
@@ -128,7 +128,7 @@ print(a*3)
 
 ### 布林
 
-```python=
+```python
 f = True
 print(f)
 print('型態:', type(f))
@@ -144,7 +144,7 @@ print('型態:', type(g))
 
 ----
 
-```python=
+```python
 a = [1, '2', True, 8.93, 9, 33, 'asd']
 b = [5, 6, 7]
 
@@ -160,7 +160,7 @@ print(b * 2)
 
 ----
 
-```python=
+```python
 c = [1, 3, 7, 9, 4]
 
 print(c)
@@ -179,7 +179,7 @@ print(c)
 
 ----
 
-```python=
+```python
 c = [1, 3, 7, 9, 4, 2, 5, 6]
 
 print(c)
@@ -204,7 +204,7 @@ del c
 
 ----
 
-```python=
+```python
 c = [1, 3, 7, 9, 4, 2, 5, 6]
 
 print(c)
@@ -218,7 +218,7 @@ print(c)
 
 ----
 
-```python=
+```python
 c = [1, 3, 7, 9, 4, 2, 5, 6]
 
 print(c)
@@ -237,7 +237,7 @@ print(c.count(7))
 
 ----
 
-```python=
+```python
 a = (50)
 tup = (50,)
 t = (50, 95, 67)
@@ -249,7 +249,7 @@ print('型態:', type(t))
 
 ----
 
-```python=
+```python
 a = (1, '2', True, 8.93, 9, 33, 'asd')
 b = (5, 6, 7)
 
@@ -269,7 +269,7 @@ print(b * 2)
 
 ----
 
-```python=
+```python
 d = {1:'345', 2:56.487, '98':'345', 3:345, 3:567}
 
 print('型態:', type(d))
@@ -283,7 +283,7 @@ del d
 
 ----
 
-```python=
+```python
 d = {1:'345', 2:56.487, '98':'345', 3:345, 3:567}
 
 print(d.pop(1))
@@ -300,7 +300,7 @@ print(d)
 
 ## print
 
-```python=
+```python
 print(666, '血小板我老婆', '有人要玩崩壞3嗎')
 print('血小板', '血小板', '血小板', sep="老婆", end="\n\n\n")
 
@@ -313,7 +313,7 @@ print("%s %d" % (a, b))
 
 ## 特殊字串
 
-```python=
+```python
 #如果字串裡要使用到引號，外面包住他的引號要不同
 s = '紅血球:"血小板好可愛!!!"'
 print(s)
@@ -327,7 +327,7 @@ print(a)
 
 ## 型態轉換
 
-```python=
+```python
 # 宣告一個整數
 a=100
 print(a)
@@ -373,7 +373,7 @@ print(type(i))
 
 ### 算數運算子
 
-```python=
+```python
 a = 1+2
 b = 3-1
 c = 3*2
@@ -395,7 +395,7 @@ print(h*10)
 
 ### 關係運算子
 
-```python=
+```python
 a = 1 == 2
 b = 1 == 1
 
@@ -415,7 +415,7 @@ print(a, b, c, d, e, f, g, h)
 
 ### 邏輯運算子
 
-```python=
+```python
 a = 1 == 1
 print(a)
 print(not(a))
@@ -434,7 +434,7 @@ print(a or a)
 
 ### 複合指定運算子
 
-```python=
+```python
 a = b = 3
 
 a = a + 3
@@ -472,7 +472,7 @@ print(a,b)
 
 ### 成員運算子
 
-```python=
+```python
 s = [1, 2, 3, 4, 5]
 
 print(2 in s)
@@ -489,7 +489,7 @@ for x in s:
 
 ### 身分運算子
 
-```python=
+```python
 x = 1
 y = '1'
 
@@ -504,7 +504,7 @@ print(1 is not y)
 
 ### 位運算子
 
-```python=
+```python
 a = 60 
 # 60 = 0011 1100 
 b = 13
@@ -540,7 +540,7 @@ print('a >> 2 =', c)
 
 ## input
 
-```python=
+```python
 x = input('輸入:')
 
 print(x)
@@ -551,7 +551,7 @@ print(type(x))
 
 ## 判斷式
 
-```python=
+```python
 x = 99
 y = 9
 
@@ -571,7 +571,7 @@ else:
 
 ### for迴圈
 
-```python=
+```python
 x = [11, 22, 38]
 
 for y in x:
@@ -590,7 +590,7 @@ for迴圈整個執行完才會執行else
 
 ### range
 
-```python=
+```python
 for x in range(6):
     print(x)
 
@@ -605,7 +605,7 @@ for z in range(25, 0, -5):
 
 ### while迴圈
 
-```python=
+```python
 x = 10
 
 while(x > 5):
@@ -626,7 +626,7 @@ while迴圈整個執行完才會執行else
 
 ## 函數
 
-```python=
+```python
 a = 100
 b = 200
 
